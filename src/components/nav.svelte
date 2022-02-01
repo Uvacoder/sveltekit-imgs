@@ -19,7 +19,7 @@
   </div> 
   <div class="flex-none px-2 mx-2">
     <span class="text-lg font-bold">
-      SveltePixabay</span>
+      Sveltekit Image</span>
     </div> 
     <div class="flex-1 px-2 mx-2">
       <div class="items-stretch hidden lg:flex">
